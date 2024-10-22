@@ -2,6 +2,7 @@ rencana sekolah
 - datang tepat waktu
   * bangun lebih pagi
   * tidur jgn larut malam
+    ^ usahakan jam 10
   * prepare jgn kelamaan
     ^ jgn keseringan ngaca
 - rajin piket
